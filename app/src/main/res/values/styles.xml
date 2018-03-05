@@ -1,0 +1,69 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Primary theme color of the app (sets background color of app bar) -->
+        <item name="colorPrimary">#800080</item>
+        <!-- Background color of buttons in the app -->
+        <item name="colorButtonNormal">#FFFF00</item>
+    </style>
+
+    <!-- Score font. -->
+    <style name="Score" parent="@style/Theme.AppCompat">
+        <!--Score font color. -->
+        <item name="android:textColor">#000000</item>
+        <!--Score font size. -->
+        <item name="android:textSize">76sp</item>
+        <!--Score font Type. -->
+        <item name="android:fontFamily">sans-serif-light</item>
+        <!--Score font Type. -->
+        <item name="android:textStyle">bold</item>
+        <!--Score Font Alignment -->
+        <item name="android:textAlignment">center</item>
+
+
+
+
+    </style>
+
+    <!-- Team Name -->
+
+    <style name="TeamNames" parent="@style/Theme.AppCompat">
+        <!--Team name font color. -->
+        <item name="android:textColor">#FF0000</item>
+        <!--Team name font size. -->
+        <item name="android:textSize">26sp</item>
+        <!--Team name font Type. -->
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <!--Team Name Font Alignment -->
+        <item name="android:textAlignment">center</item>
+        <!--Team Name Font Border -->
+        <item name="android:background">#000000</item>
+
+
+    </style>
+
+    <!-- Stats -->
+
+    <style name="Stats" parent="@style/Theme.AppCompat">
+        <!--Stats font color. -->
+        <item name="android:textColor">#000000</item>
+        <!--Stats font size. -->
+        <item name="android:textSize">16sp</item>
+        <!--Stats font Type. -->
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <!--Stats Font Alignment -->
+        <item name="android:textAlignment">center</item>
+        <!--Stats font Type. -->
+        <item name="android:textStyle">bold</item>
+
+
+    </style>
+    <style name="ButtonText" parent="@style/Theme.AppCompat">
+        <!--Button font color. -->
+        <item name="android:textColor">#800080</item>
+    </style>
+
+    <!-- Team Name -->
+
+</resources>

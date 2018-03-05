@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Kobe Vs Jordan</string>
+    <string name="_1">+1</string>
+    <string name="_2">+2</string>
+    <string name="f_t">F/T</string>
+    <string name="mssd_1">Mssd 1</string>
+    <string name="mssd_2">Mssd 2</string>
+    <string name="mssd_f_t">Mssd F/T</string>
+    <string name="reb">Reb</string>
+    <string name="blk">Blk</string>
+    <string name="stl">Stl</string>
+    <string name="to">TO</string>
+    <string name="_0">0</string>
+    <string name="kobe">KOBE</string>
+    <string name="jordan">JORDAN</string>
+    <string name="reset">RESET</string>
+    <string name="Slash">/</string>
+    <string name="fg">FG</string>
+    <string name="_3pt">3pt</string>
+    <string name="ft">FT</string>
+    <string name="Perc">%</string>
+    <string name="head_to_head_stats">HEAD TO HEAD STATS</string>
+    <string name="foul">Foul</string>
+    <string name="fls">Fls</string>
+    <string name="_2pt">2PT</string>
+</resources>
